@@ -17,4 +17,4 @@
 
 - Delete Branch
 
-    git push origin :namebranch delete
+    git push origin :namebranch
