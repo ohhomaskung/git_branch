@@ -2,6 +2,7 @@
 
 
 git brach nameBranch
+
 git checkout namebranch
 
 
