@@ -1,6 +1,6 @@
 # git_branch
 
--Creare Branch 
+- Creare Branch 
 
 git brach nameBranch
 
@@ -9,7 +9,7 @@ git checkout namebranch
 
 -----
 
-Merge other branch to master 
+- Merge other branch to master 
 
 git checkout master
 
