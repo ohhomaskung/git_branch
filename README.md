@@ -1,8 +1,8 @@
 # git_branch
 
-- Creare Branch 
+- Create Branch 
 
-    git brach nameBranch
+    git branch nameBranch
     
     git checkout namebranch
 
